@@ -1,1 +1,1 @@
-# masomy_ecommerce
+# masomy-ecommerce
